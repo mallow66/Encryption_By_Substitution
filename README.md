@@ -4,7 +4,7 @@ in this repository you gonna find 4 famous Substition algorithms implementation.
 I used those cipher algorithms in a JavaFx application. 
 If you want to try it, you will find the jar file here.
 
-** Adfgvx Encryption**
+__ Adfgvx Encryption__
 The cipher is named after the six possible letters used in the ciphertext: A, D, F, G, V and X. These letters were chosen deliberately because they sound very different from each other when transmitted via Morse code. The intention was to reduce the possibility of operator error.
 for more info : https://en.wikipedia.org/wiki/ADFGVX_cipher
 
