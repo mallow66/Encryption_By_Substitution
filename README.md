@@ -1,4 +1,4 @@
-# Encryption_By_Substitution
+# Encryption By Substitution
 
 in this repository you gonna find 4 famous Substition algorithms implementation.
 I used those cipher algorithms in a JavaFx application. 
